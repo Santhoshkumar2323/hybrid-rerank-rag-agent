@@ -1,0 +1,15 @@
+python-dotenv==1.0.1
+chromadb==0.6.3
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+
+rank_bm25==0.2.2
+sentence-transformers==3.4.1
+huggingface-hub==0.28.1
+
+groq==0.18.0
+langgraph==0.2.74
+
+pypdf==5.3.1
+plotly==6.0.0

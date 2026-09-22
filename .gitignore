@@ -1,0 +1,6 @@
+.env
+local_chroma_db/
+__pycache__/
+data/
+old-rag.py
+visual/
