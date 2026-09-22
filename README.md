@@ -27,6 +27,8 @@ This cluster map confirms high semantic density and perfect separation between d
 
 # Execution & Ingestion Metrics
 
+Below is the verified end-to-end execution of the retrieval engine. The system tracks data transformation from raw document ingestion through multi-stage vector refinement, culminating in a guardrailed generation state:
+
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
