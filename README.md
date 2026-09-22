@@ -22,7 +22,7 @@ This cluster map confirms high semantic density and perfect separation between d
 * 🟢 **Investment Valuation** forms the largest standalone corpus occupying the central-right vector space.
 
 <p align="center">
-  <img src="output/Vector_map.png" alt="Local Vector Database Semantic Map" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="output/Vector map.png" alt="Local Vector Database Semantic Map" width="90%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </p>
 
 # Execution & Ingestion Metrics
